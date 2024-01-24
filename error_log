@@ -1,0 +1,81 @@
+[21-Nov-2023 13:42:55 UTC] PHP Warning:  require(/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
+[21-Nov-2023 13:42:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/autoload.php(25): ComposerAutoloaderInit7a5bd3a51eecd59ffd87761a2b300bbc::getLoader()
+#2 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/public/index.php(34): require('/home/e398pw8vr...')
+#3 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/index.php(21): require_once('/home/e398pw8vr...')
+#4 {main}
+  thrown in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
+[21-Nov-2023 13:42:59 UTC] PHP Warning:  require(/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
+[21-Nov-2023 13:42:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/autoload.php(25): ComposerAutoloaderInit7a5bd3a51eecd59ffd87761a2b300bbc::getLoader()
+#2 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/public/index.php(34): require('/home/e398pw8vr...')
+#3 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/index.php(21): require_once('/home/e398pw8vr...')
+#4 {main}
+  thrown in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
+[21-Nov-2023 13:42:59 UTC] PHP Warning:  require(/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
+[21-Nov-2023 13:42:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/autoload.php(25): ComposerAutoloaderInit7a5bd3a51eecd59ffd87761a2b300bbc::getLoader()
+#2 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/public/index.php(34): require('/home/e398pw8vr...')
+#3 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/index.php(21): require_once('/home/e398pw8vr...')
+#4 {main}
+  thrown in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
+[21-Nov-2023 13:43:02 UTC] PHP Warning:  require(/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
+[21-Nov-2023 13:43:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/autoload.php(25): ComposerAutoloaderInit7a5bd3a51eecd59ffd87761a2b300bbc::getLoader()
+#2 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/public/index.php(34): require('/home/e398pw8vr...')
+#3 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/index.php(21): require_once('/home/e398pw8vr...')
+#4 {main}
+  thrown in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
+[21-Nov-2023 13:47:24 UTC] PHP Warning:  require(/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
+[21-Nov-2023 13:47:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/autoload.php(25): ComposerAutoloaderInit7a5bd3a51eecd59ffd87761a2b300bbc::getLoader()
+#2 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/public/index.php(34): require('/home/e398pw8vr...')
+#3 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/index.php(21): require_once('/home/e398pw8vr...')
+#4 {main}
+  thrown in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
+[21-Nov-2023 13:47:49 UTC] PHP Warning:  require(/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
+[21-Nov-2023 13:47:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/autoload.php(25): ComposerAutoloaderInit7a5bd3a51eecd59ffd87761a2b300bbc::getLoader()
+#2 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/public/index.php(34): require('/home/e398pw8vr...')
+#3 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/index.php(21): require_once('/home/e398pw8vr...')
+#4 {main}
+  thrown in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
+[21-Nov-2023 13:48:40 UTC] PHP Warning:  require(/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
+[21-Nov-2023 13:48:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/autoload.php(25): ComposerAutoloaderInit7a5bd3a51eecd59ffd87761a2b300bbc::getLoader()
+#2 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/public/index.php(34): require('/home/e398pw8vr...')
+#3 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/index.php(21): require_once('/home/e398pw8vr...')
+#4 {main}
+  thrown in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
+[21-Nov-2023 13:51:01 UTC] PHP Warning:  require(/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
+[21-Nov-2023 13:51:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/autoload.php(25): ComposerAutoloaderInit7a5bd3a51eecd59ffd87761a2b300bbc::getLoader()
+#2 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/public/index.php(34): require('/home/e398pw8vr...')
+#3 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/index.php(21): require_once('/home/e398pw8vr...')
+#4 {main}
+  thrown in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
+[21-Nov-2023 13:57:23 UTC] PHP Warning:  require(/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
+[21-Nov-2023 13:57:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/autoload.php(25): ComposerAutoloaderInit7a5bd3a51eecd59ffd87761a2b300bbc::getLoader()
+#2 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/public/index.php(34): require('/home/e398pw8vr...')
+#3 /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/index.php(21): require_once('/home/e398pw8vr...')
+#4 {main}
+  thrown in /home/e398pw8vrt9j/doctor.suranjanbhattacharjee.tech/vendor/composer/autoload_real.php on line 41
